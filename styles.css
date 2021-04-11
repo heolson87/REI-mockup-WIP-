@@ -1,5 +1,9 @@
 /* font awesome icons */
 
+/* <i class="fas fa-ban"></i> */
+/* <i class="fas fa-bars"></i> */
+/* <i class="fas fa-user-circle"></i> */
+/* <i class="fas fa-book"></i> */
 /* <i class="fab fa-facebook"></i> */
 /* <i class="fab fa-twitter-square"></i> */
 /* <i class="fab fa-linkedin"></i> */
@@ -129,12 +133,19 @@ p {
   padding: 25px 50px;
 }
 
+.card-icon {
+  font-size: 4rem;
+  color: #482D70;
+  padding-bottom: 25px;
+}
+
 .card-title {
   font-size: 2rem;
 }
 
 .card-subtitle {
   font-size: 1.5rem;
+  padding-bottom: 15px;
 }
 
 .compare-btn {
