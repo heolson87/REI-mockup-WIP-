@@ -218,13 +218,15 @@ p {
 .blog-text {
   padding: 50px;
   color: #fff;
-  width: 100%;
+  width: 500px;
 }
 
 .blog-bg {
   background-image: url(images/alve-calvar.jpg);
   background-repeat: no-repeat;
   background-position: center;
+  height: 333px;
+  width: 500px;
 
 }
 
@@ -232,6 +234,8 @@ p {
   background-image: url(images/clem.jpg);
   background-repeat: no-repeat;
   background-position: center;
+  height: 333px;
+  width: 500px;
 }
 
 /* about */
