@@ -208,6 +208,11 @@ p {
 
 .blog-post {
   margin-bottom: 25px;
+  text-align: center;
+}
+
+.blog-posts {
+  text-align: center;
 }
 
 .blog-header {
@@ -225,17 +230,16 @@ p {
   background-image: url(images/alve-calvar.jpg);
   background-repeat: no-repeat;
   background-position: center;
-  height: 333px;
-  width: 500px;
-
+  height: 100%;
+  width: 100%;
 }
 
 .blog-bg2 {
   background-image: url(images/clem.jpg);
   background-repeat: no-repeat;
   background-position: center;
-  height: 333px;
-  width: 500px;
+  height: 100%;
+  width: 100%;
 }
 
 /* about */
