@@ -207,6 +207,7 @@ p {
 }
 
 .blog-post {
+  margin-bottom: 25px;
 }
 
 .blog-header {
@@ -218,7 +219,6 @@ p {
 .blog-text {
   padding: 50px;
   color: #fff;
-  width: 500px;
 }
 
 .blog-bg {
