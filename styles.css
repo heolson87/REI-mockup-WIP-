@@ -194,6 +194,21 @@ p {
   font-size: 1.5rem;
 }
 
+/* blog */
+
+.blog-container {
+  text-align: center;
+}
+
+.blog-post {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.blog-text {
+  padding: 50px 50px 100px;
+}
+
 /* about */
 
 .about {
