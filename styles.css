@@ -196,50 +196,45 @@ p {
 
 /* blog */
 
-.blog-hr {
-  width: 5%;
-  margin: auto;
-}
-
-.blog-container {
-  text-align: center;
-  padding: 50px;
-}
-
-.blog-post {
-  margin-bottom: 25px;
-  text-align: center;
-}
-
 .blog-posts {
   text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 75px;
+  color: #fff;
 }
 
-.blog-header {
-  color: #fff;
-  padding-top: 50px;
-  padding-bottom: 0px;
+.blog-hr {
+  text-align: center;
 }
 
-.blog-text {
-  padding: 50px;
-  color: #fff;
+.blog-hr-hr {
+  width: 10%;
+  margin-left: 45%;
 }
 
 .blog-bg {
-  background-image: url(images/alve-calvar.jpg);
+  background-image: URL(images/alve-calvar.jpg);
   background-repeat: no-repeat;
   background-position: center;
-  height: 100%;
-  width: 100%;
+  height: 333px;
+  width: 500px;
+  margin: 0 auto;
+  padding-top: 50px;
 }
 
 .blog-bg2 {
-  background-image: url(images/clem.jpg);
+  background-image: URL(images/clem.jpg);
   background-repeat: no-repeat;
   background-position: center;
-  height: 100%;
-  width: 100%;
+  height: 333px;
+  width: 500px;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+
+.blog-text {
+  padding-top: 50px;
 }
 
 /* about */
